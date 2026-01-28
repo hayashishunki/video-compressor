@@ -1,6 +1,9 @@
 ■概要
 ffmpegを使用して、動画を圧縮する
 
+■環境
+OS : Windows
+
 ■必要ツール
 動画圧縮は、以下ffmpegをダウンロードし、「video-compressor/」配下に配置してから使用方法を実施すること
 https://www.gyan.dev/ffmpeg/builds/
